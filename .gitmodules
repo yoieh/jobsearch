@@ -1,0 +1,3 @@
+[submodule "jobsearch-smtp"]
+	path = jobsearch-smtp
+	url = https://github.com/yoieh/jobsearch-smtp.git
